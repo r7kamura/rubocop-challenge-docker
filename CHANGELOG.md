@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Fixed
+
+- Fix bug
+
 ## 0.2.0 - 2022-05-13
 
 ### Changed
