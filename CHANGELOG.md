@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## 0.2.1 - 2022-05-13
+
 ### Fixed
 
 - Fix bug
